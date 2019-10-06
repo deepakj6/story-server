@@ -1,0 +1,14 @@
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\bin\Debug\netcoreapp2.2\StoryServer.deps.json
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\bin\Debug\netcoreapp2.2\StoryServer.runtimeconfig.json
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\bin\Debug\netcoreapp2.2\StoryServer.runtimeconfig.dev.json
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\bin\Debug\netcoreapp2.2\StoryServer.dll
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\bin\Debug\netcoreapp2.2\StoryServer.pdb
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.csprojAssemblyReference.cache
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.csproj.CoreCompileInputs.cache
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.RazorAssemblyInfo.cache
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.RazorAssemblyInfo.cs
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.AssemblyInfoInputs.cache
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.AssemblyInfo.cs
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.RazorTargetAssemblyInfo.cache
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.dll
+C:\Users\jagadd\Desktop\repos\workspace\story-server\src\StoryServer\obj\Debug\netcoreapp2.2\StoryServer.pdb
